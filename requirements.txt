@@ -1,0 +1,13 @@
+pip>=21.2.4
+tracardi-plugin-sdk
+tracardi~=0.6.16
+wheel~=0.36.2
+twine
+
+asyncio~=3.4.3
+keyring~=23.2.1
+pkginfo~=1.7.1
+setuptools~=57.0.0
+docutils~=0.17.1
+pydantic~=1.8.2
+aiohttp~=3.7.4.post0
